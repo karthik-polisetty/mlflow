@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Learning/iNeuron/mlflow/mlruns/0/739224ad908e4bb3b3a5fce47a875525/artifacts
+end_time: 1687089628669
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 739224ad908e4bb3b3a5fce47a875525
+run_name: suave-bee-329
+run_uuid: 739224ad908e4bb3b3a5fce47a875525
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687089628616
+status: 3
+tags: []
+user_id: hp
